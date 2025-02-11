@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 74bbfb0e1bfbcdb29c55bfc2c1c1dc03feb33abf LayersOfAbstraction <jnash51@live.com> 1738657991 +1000	branch: Created from refs/remotes/origin/Jekyll_migration
+74bbfb0e1bfbcdb29c55bfc2c1c1dc03feb33abf f83f3c03f6b4deedba2fc1e466b1be5e14949964 LayersOfAbstraction <jnash51@live.com> 1738658562 +1000	commit: Erase redundant template files/folders.
+f83f3c03f6b4deedba2fc1e466b1be5e14949964 c648bdb6a0e37864dd62d5a25edc7f80749d1a09 LayersOfAbstraction <jnash51@live.com> 1738707234 +1000	commit: Move _app.js to root.
+c648bdb6a0e37864dd62d5a25edc7f80749d1a09 79d133a51840284e60327ab036353c9f9de14421 LayersOfAbstraction <jnash51@live.com> 1738831505 +1000	pull: Fast-forward
+79d133a51840284e60327ab036353c9f9de14421 b2e8c9bec765b8ef103e7c7b77c3fa50e54d7bcb LayersOfAbstraction <jnash51@live.com> 1738995051 +1000	pull: Fast-forward
+b2e8c9bec765b8ef103e7c7b77c3fa50e54d7bcb ba433e10c819716f9c86e93a5382e2b2ed936714 LayersOfAbstraction <jnash51@live.com> 1738995115 +1000	commit: Add all files.
+ba433e10c819716f9c86e93a5382e2b2ed936714 ba433e10c819716f9c86e93a5382e2b2ed936714 LayersOfAbstraction <jnash51@live.com> 1739273996 +1000	Branch: renamed refs/heads/Jekyll_migration to refs/heads/master
